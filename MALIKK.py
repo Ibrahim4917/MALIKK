@@ -1,1 +1,1 @@
-import MALIKK_enc
+import MALIK
